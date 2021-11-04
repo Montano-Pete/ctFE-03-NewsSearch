@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { ArticleList } from '../components/Article/ArticleList';
 import { fetchNewsAPI } from '../services/fetchNewsAPI';
 
 export default class NewsContainer extends Component {
@@ -18,7 +19,6 @@ export default class NewsContainer extends Component {
     const { loading, articles } = this.state;
 
     if (loading) return <h1>Loading...</h1>;
-    return null;
-    // ArticleList articles={articles} />;
+    return <ArticleList articles={articles} />;
   }
 }
