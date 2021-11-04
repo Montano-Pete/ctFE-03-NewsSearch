@@ -7,5 +7,9 @@ describe('NewsContainer', () => {
     render(<NewsContainer />);
 
     screen.getByText('Loading...');
+
+    const ul = await screen.findByRole('list', { name: 'articles' });
+
+    expect(ul).toMatchSnapshot();
   });
 });

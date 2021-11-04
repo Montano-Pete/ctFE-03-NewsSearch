@@ -1,0 +1,403 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NewsContainer renders a list of news articles to the page 1`] = `
+<ul
+  aria-label="articles"
+>
+  <li>
+    <figure>
+      <h2>
+        Owen Paterson quits as MP over lobbying row 'nightmare' - BBC News
+      </h2>
+      <h3>
+        https://www.facebook.com/bbcnews
+      </h3>
+      <img
+        alt="Owen Paterson quits as MP over lobbying row 'nightmare' - BBC News"
+        source="https://ichef.bbci.co.uk/news/1024/branded_news/410D/production/_121435661_071552463-1.jpg"
+      />
+      <p>
+        The Tory MP is at the centre of a bitter row after he was found to have made "egregious" rule breaches.
+      </p>
+      <p>
+        https://www.bbc.com/news/uk-politics-59167783
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h2>
+        Barstool Sports Owner’s Stock Plunges Following ‘Violent’ Sex Allegations About President Dave Portnoy - Variety
+      </h2>
+      <h3>
+        Todd Spangler
+      </h3>
+      <img
+        alt="Barstool Sports Owner’s Stock Plunges Following ‘Violent’ Sex Allegations About President Dave Portnoy - Variety"
+        source="https://variety.com/wp-content/uploads/2021/11/Dave-Portnoy-Barstool-Sports.jpg?w=1024"
+      />
+      <p>
+        UPDATED: Shares of Penn National Gaming fell more than 20% Thursday, after the publication of an article in which several women alleged that they had “violent and humiliating” sexual encounters with Dave Portnoy, president of Barstool Sports. Penn National, w…
+      </p>
+      <p>
+        https://variety.com/2021/digital/news/barstool-sports-portnoy-violent-sex-allegations-stock-1235105157/
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h2>
+        Russian source for Steele's Trump dossier arrested by US authorities - The Guardian
+      </h2>
+      <h3>
+        Luke Harding
+      </h3>
+      <img
+        alt="Russian source for Steele's Trump dossier arrested by US authorities - The Guardian"
+      />
+      <p>
+        Five-page indictment released by justice department accuses analyst Igor Danchenko of lying to FBI
+      </p>
+      <p>
+        https://amp.theguardian.com/us-news/2021/nov/04/trump-russia-steele-dossier-igor-danchenko
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h2>
+        NASA restricting use of SpaceX Dragon spacecraft toilet for Crew-2 astronauts - Fox Business
+      </h2>
+      <h3>
+        Lucas Manfredi
+      </h3>
+      <img
+        alt="NASA restricting use of SpaceX Dragon spacecraft toilet for Crew-2 astronauts - Fox Business"
+        source="https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/11/0/0/SpaceX-Crew-Dragon-Endeavour.jpg?ve=1&tl=1"
+      />
+      <p>
+        NASA's Crew-2 astronauts will be unable to use the toilet on SpaceX's Dragon spacecraft when they return home from the International Space Station in November.
+      </p>
+      <p>
+        https://www.foxbusiness.com/technology/nasa-crew-2-spacex-dragon-toilet
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h2>
+        Alec Baldwin ‘Rust’ shooting: Armorer’s lawyers dismiss claims of ‘inexperience,’ question live ammo on set - Fox News
+      </h2>
+      <h3>
+        Michael Ruiz
+      </h3>
+      <img
+        alt="Alec Baldwin ‘Rust’ shooting: Armorer’s lawyers dismiss claims of ‘inexperience,’ question live ammo on set - Fox News"
+        source="https://static.foxnews.com/foxnews.com/content/uploads/2021/10/Rust-movie-Halyna-Hutchins-2.jpg"
+      />
+      <p>
+        The legal team for "Rust" armorer Hannah Gutierrez Reed is pushing back against concerns about her level of experience while asking how – and why – live ammo made it onto Alec Baldwin's movie set.
+      </p>
+      <p>
+        https://www.foxnews.com/entertainment/baldwin-rust-shooting-armorer-gutierrez-reed-lawyers
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h2>
+        League of Legends and Valorant are now available in the Epic Games Store - The Verge
+      </h2>
+      <h3>
+        Jay Peters
+      </h3>
+      <img
+        alt="League of Legends and Valorant are now available in the Epic Games Store - The Verge"
+        source="https://cdn.vox-cdn.com/thumbor/GJn3gI0g1aazNMhBKekADqY3_aU=/0x56:1270x721/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22986359/FDXPMHBUYAITXEz.jpeg"
+      />
+      <p>
+        League of Legends, Valorant, Teamfight Tactics, and Legends of Runeterra are all now available to download from the Epic Games Store.
+      </p>
+      <p>
+        https://www.theverge.com/2021/11/4/22763767/league-of-legends-valorant-epic-games-store
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h2>
+        Kate Beckinsale subtly praises Pete Davidson amid Kim Kardashian dating rumors - Page Six
+      </h2>
+      <h3>
+        Eileen Reslen
+      </h3>
+      <img
+        alt="Kate Beckinsale subtly praises Pete Davidson amid Kim Kardashian dating rumors - Page Six"
+        source="https://pagesix.com/wp-content/uploads/sites/3/2021/11/pete-davidson-kate-beckinsale-02.jpg?quality=90&strip=all&w=1200"
+      />
+      <p>
+        The “Pearl Harbor” star liked a repost of a tweet this week that put “the possibility that [Davidson] might have a nice personality” as part of his romantic appeal.
+      </p>
+      <p>
+        https://pagesix.com/2021/11/04/kate-beckinsale-praises-pete-davidson-amid-kim-k-dating-rumors/
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h2>
+        A student loan forgiveness overhaul hits an early stumbling block - NPR
+      </h2>
+      <h3 />
+      <img
+        alt="A student loan forgiveness overhaul hits an early stumbling block - NPR"
+        source="https://media.npr.org/assets/img/2021/11/02/ljohnson-phonesandpaperwork_wide-884e05e5fd78b79ae7704d0d1f57a10c1a2e366b.jpg?s=1400"
+      />
+      <p>
+        An NPR investigation finds student borrowers were prematurely rejected under the revamped Public Service Loan Forgiveness program. The Education Department has agreed, and promises a fix.
+      </p>
+      <p>
+        https://www.npr.org/2021/11/04/1051463060/student-loan-forgiveness-overhaul-fedloan-public-service-borrowers
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h2>
+        House Democrats Hunt for Votes to Pass Biden’s Domestic Agenda - The New York Times
+      </h2>
+      <h3>
+        Emily Cochrane
+      </h3>
+      <img
+        alt="House Democrats Hunt for Votes to Pass Biden’s Domestic Agenda - The New York Times"
+        source="https://static01.nyt.com/images/2021/11/04/us/politics/04dc-cong-1/04dc-cong-1-facebookJumbo.jpg"
+      />
+      <p>
+        Speaker Nancy Pelosi wants a vote as soon as Thursday night on a $1.85 trillion social policy and climate bill, but moderates are pushing back.
+      </p>
+      <p>
+        https://www.nytimes.com/2021/11/04/us/politics/house-democrats-biden.html
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h2>
+        NFL to review Packers' COVID-19 protocols following Aaron Rodgers' positive test: report - Fox News
+      </h2>
+      <h3>
+        Paulina Dedaj
+      </h3>
+      <img
+        alt="NFL to review Packers' COVID-19 protocols following Aaron Rodgers' positive test: report - Fox News"
+        source="https://static.foxnews.com/foxnews.com/content/uploads/2021/10/Aaron-Rodgers5.jpg"
+      />
+      <p>
+        The Green Bay Packers' COVID-19 protocols are being reviewed by the NFL after Aaron Rodgers, who was previously believed to have been vaccinated, tested positive on Wednesday.
+      </p>
+      <p>
+        https://www.foxnews.com/sports/nfl-review-packers-covid-19-aaron-rodgers-positive
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h2>
+        Jay Williams fights Stephen A. Smith on Aaron Rodgers and Kyrie Irving - New York Post 
+      </h2>
+      <h3>
+        Ryan Glasspiegel
+      </h3>
+      <img
+        alt="Jay Williams fights Stephen A. Smith on Aaron Rodgers and Kyrie Irving - New York Post "
+        source="https://nypost.com/wp-content/uploads/sites/2/2021/11/Screen-Shot-2021-11-04-at-11.46.40-AM.png?w=1024"
+      />
+      <p>
+        Jay Williams brought receipts to Stephen A. Smith on “First Take” on Thursday.
+      </p>
+      <p>
+        https://nypost.com/2021/11/04/jay-williams-fights-stephen-a-smith-on-aaron-rodgers-kyrie-irving/
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h2>
+        Felicia Moore, Andre Dickens Will Compete for Atlanta Mayor; Kasim Reed Falls Short - The New York Times
+      </h2>
+      <h3>
+        Richard Fausset, Tariro Mzezewa
+      </h3>
+      <img
+        alt="Felicia Moore, Andre Dickens Will Compete for Atlanta Mayor; Kasim Reed Falls Short - The New York Times"
+        source="https://static01.nyt.com/images/2021/11/02/us/02election-blog-atlantamayor-result-hfo/02election-blog-atlantamayor-result-hfo-facebookJumbo.jpg"
+      />
+      <p>
+        Two candidates, Felicia Moore and Andre Dickens, will compete in a runoff on Nov. 30.
+      </p>
+      <p>
+        https://www.nytimes.com/2021/11/04/us/politics/atlanta-mayor-runoff-felicia-moore.html
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h2>
+        Truck driver Ed Durr says his win over N.J. Senate President Steve Sweeney is a rejection of pandemic restrictions - The Philadelphia Inquirer
+      </h2>
+      <h3>
+        Ellie Rushing and Andrew Seidman
+      </h3>
+      <img
+        alt="Truck driver Ed Durr says his win over N.J. Senate President Steve Sweeney is a rejection of pandemic restrictions - The Philadelphia Inquirer"
+        source="https://www.inquirer.com/resizer/MrGNwP-uiw0aBzPAx4Aca0_3KEo=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/METF5G2DXFBRDMW2BTVPL5JLII.jpg"
+      />
+      <p>
+        “I’m absolutely nobody. I’m just a simple guy," Durr told reporters. "It was the people, it was a repudiation of the policies that have been forced down their throats."
+      </p>
+      <p>
+        https://www.inquirer.com/politics/new-jersey/ed-durr-truck-driver-wins-election-nj-2021-20211104.html
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h2>
+        Snipping Tool not working in Windows 11? An expired certificate is to blame - Ars Technica
+      </h2>
+      <h3>
+        Andrew Cunningham
+      </h3>
+      <img
+        alt="Snipping Tool not working in Windows 11? An expired certificate is to blame - Ars Technica"
+        source="https://cdn.arstechnica.net/wp-content/uploads/2021/08/SnippingLight-722x380.png"
+      />
+      <p>
+        Some issues have already been addressed, others are waiting for a fix.
+      </p>
+      <p>
+        https://arstechnica.com/gadgets/2021/11/expired-windows-11-certificate-breaks-some-built-in-apps-and-tools/
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h2>
+        Judge seems skeptical of Trump request to block House committee from Jan. 6 documents - NBC News
+      </h2>
+      <h3>
+        Pete Williams
+      </h3>
+      <img
+        alt="Judge seems skeptical of Trump request to block House committee from Jan. 6 documents - NBC News"
+        source="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_44/3517181/211104-donald-trump-ew-134p.jpg"
+      />
+      <p>
+        A federal judge appeared unwilling Thursday to block the release of scores of White House documents from the National Archives sought by the House committee investigating the Jan. 6 attack on the U.S. Capitol.
+      </p>
+      <p>
+        https://www.nbcnews.com/politics/congress/judge-seems-skeptical-trump-request-block-house-committee-jan-6-n1283231
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h2>
+        Guy Fieri Says He's 'All In' To Officiate Kristen Stewart's Wedding - HuffPost
+      </h2>
+      <h3>
+        Curtis M. Wong
+      </h3>
+      <img
+        alt="Guy Fieri Says He's 'All In' To Officiate Kristen Stewart's Wedding - HuffPost"
+        source="https://img.huffingtonpost.com/asset/61832aeb240000f864508f2e.jpg?cache=8eaHWifEiQ&ops=1778_1000"
+      />
+      <p>
+        The Food Network star is ready to preside over the "Spencer" star's nuptials after she announced her engagement to girlfriend Dylan Meyer this week.
+      </p>
+      <p>
+        https://www.huffpost.com/entry/kristen-stewart-guy-fieri-wedding-officiant_n_6183226ae4b0a518ac9b2f42
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h2>
+        ‘Eternals’ Pulled From Saudi Arabia, Qatar and Kuwait in Apparent Ban - Hollywood Reporter
+      </h2>
+      <h3>
+        Alex Ritman
+      </h3>
+      <img
+        alt="‘Eternals’ Pulled From Saudi Arabia, Qatar and Kuwait in Apparent Ban - Hollywood Reporter"
+        source="https://www.hollywoodreporter.com/wp-content/uploads/2021/10/MES7050_comp_v151.1034_R2_COMP-H-2021.jpg?w=1024"
+      />
+      <p>
+        Marvel’s Eternals will not hit cinema screens in Saudi Arabia, Kuwait or Qatar, The Hollywood Reporter has learned. The all-star superhero film, which was due for release across the Gulf region on Nov. 11, is understood to have been met with a series of edit …
+      </p>
+      <p>
+        https://www.hollywoodreporter.com/movies/movie-news/eternals-banned-saudi-arabia-qatar-kuwait-1235042241/
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h2>
+        Vermont reports record-setting 487 Covid-19 cases - vtdigger.org
+      </h2>
+      <h3>
+        Erin Petenko
+      </h3>
+      <img
+        alt="Vermont reports record-setting 487 Covid-19 cases - vtdigger.org"
+        source="https://vtdigger.org/wp-content/uploads/2021/10/vermont-covid-updates.jpg"
+      />
+      <p>
+        The state also reported six new deaths in Thursday’s data report.
+      </p>
+      <p>
+        https://vtdigger.org/2021/11/04/vermont-reports-record-setting-487-covid-19-cases/
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h2>
+        A.N.C. Suffers Worst Election Setback Since End of Apartheid - The New York Times
+      </h2>
+      <h3>
+        Lynsey Chutel
+      </h3>
+      <img
+        alt="A.N.C. Suffers Worst Election Setback Since End of Apartheid - The New York Times"
+        source="https://static01.nyt.com/images/2021/11/04/world/04safrica-election-result-1/04safrica-election-result-1-facebookJumbo.jpg"
+      />
+      <p>
+        In nationwide municipal elections, South Africans rebuked the African National Congress, handing it less than half the collective vote for the first time in its history.
+      </p>
+      <p>
+        https://www.nytimes.com/2021/11/04/world/africa/south-africa-election-anc.html
+      </p>
+    </figure>
+  </li>
+  <li>
+    <figure>
+      <h2>
+        Scientists find fossil of early hominid in South Africa - ABC News
+      </h2>
+      <h3>
+        SEBABATSO MOSAMO Associated Press
+      </h3>
+      <img
+        alt="Scientists find fossil of early hominid in South Africa - ABC News"
+        source="https://s.abcnews.com/images/International/WireAP_b0eba103d7b14959aa4fa2504925e18c_16x9_992.jpg"
+      />
+      <p />
+      <p>
+        https://abcnews.go.com/International/wireStory/scientists-find-fossil-early-hominid-south-africa-80973462
+      </p>
+    </figure>
+  </li>
+</ul>
+`;

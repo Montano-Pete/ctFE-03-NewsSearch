@@ -3,15 +3,15 @@ import PropTypes from 'prop-types';
 import { Article } from './Article';
 
 export const ArticleList = ({ articles }) => (
-  <ul>
+  <ul aria-label="articles">
     {articles.map((article) => (
       <li>
         <Article
           title={article.title}
           author={article.author}
           image={article.image}
-          url={article.url}
           description={article.description}
+          url={article.url}
         />
       </li>
     ))}
