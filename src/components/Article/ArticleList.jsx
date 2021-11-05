@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { Article } from './Article';
 
-export const ArticleList = ({ articles }) => (
+const ArticleList = ({ articles }) => (
   <ul aria-label="articles">
     {articles.map((article) => (
       <li>
@@ -29,3 +29,5 @@ ArticleList.propTypes = {
     })
   ).isRequired,
 };
+
+export default ArticleList;

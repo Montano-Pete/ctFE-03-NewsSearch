@@ -1,6 +1,6 @@
-export const fetchNewsAPI = async () => {
+export const fetchNewsAPI = async (searchInput) => {
   const res = await fetch(
-    `https://newsapi.org/v2/top-headlines?country=us&apiKey=${process.env.REACT_APP_API_KEY}`
+    `https://newsapi.org/v2/everything?q=${searchInput}&apiKey=${process.env.REACT_APP_API_KEY}`
   );
 
   const json = await res.json();
