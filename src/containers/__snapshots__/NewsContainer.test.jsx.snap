@@ -404,3 +404,148 @@ The post WhatsApp testing new PiP mode on iPhone, longer time for ‘delete for 
   </li>
 </ul>
 `;
+
+exports[`NewsContainer renders a list of news articles to the page 2`] = `
+Array [
+  <h2>
+    Tesla launches Supercharger pilot program to charge other EVs
+  </h2>,
+  <p>
+    As promised earlier in the year
+, Tesla is expanding access to its Supercharger charger network. Starting today, the company is opening 10 locations in the Netherlands to non-Tesla EVs as part of a pilot program
+. Provided you live in the country and you’ve…
+  </p>,
+  <p>
+    https://www.engadget.com/tesla-the-netherlands-supercharger-pilot-223842483.html
+  </p>,
+  <h2>
+    Uber aims for 50,000 Teslas on its platform by 2023
+  </h2>,
+  <p>
+    Uber is partnering with Hertz to bring 50,000 Tesla vehicles on its platform by 2023. The company will offer drivers a weekly rate of $334 for a Tesla Model 3.
+  </p>,
+  <p>
+    https://www.theverge.com/2021/10/27/22747184/uber-tesla-rent-drivers-hertz-cost-2023
+  </p>,
+  <h2>
+    Tesla posts a wildly profitable Q3 despite difficult car market
+  </h2>,
+  <p>
+    Despite a global pandemic and ongoing chip shortage, Tesla continues to make money hand over fist. The company reported on Wednesday that it had a net income of $1.62 billion — five times more than it did this time last year. What's more, Tesla's operating in…
+  </p>,
+  <p>
+    https://www.engadget.com/tesla-posts-a-wildly-profitable-q3-despite-difficult-car-market-210905631.html
+  </p>,
+  <h2>
+    Tesla Cybertruck Gigabeer is coming because Musk is never out of weird ideas
+  </h2>,
+  <p>
+    https://techncruncher.blogspot.com/2021/10/tesla-cybertruck-gigabeer-is-coming.html
+  </p>,
+  <h2>
+    Tesla keeps ignoring the government’s requests to fix Autopilot
+  </h2>,
+  <p>
+    Tesla was scolded by the National Transportation Safety Board for failing to address safety recommendations regarding Autopilot made in 2017.
+  </p>,
+  <p>
+    https://www.theverge.com/2021/10/25/22744982/tesla-ntsb-inaction-autopilot-safety-recommendations
+  </p>,
+  <h2>
+    ‘Driverless’ Tesla crash in Texas wasn’t actually driverless, NTSB says
+  </h2>,
+  <p>
+    There was someone behind the steering wheel in the fatal crash involving a Tesla Model S in Texas, the National Transportation Safety Board said.
+  </p>,
+  <p>
+    https://www.theverge.com/2021/10/21/22738834/tesla-crash-texas-driver-seat-occupied-ntsb
+  </p>,
+  <h2>
+    Tesla quietly raises prices on four of its EVs
+  </h2>,
+  <p>
+    Less than a week after Tesla reported record third-quarter profit of $1.6 billion, the automaker has increased the prices for four of its EVs.
+  </p>,
+  <p>
+    https://www.theverge.com/2021/10/24/22743398/tesla-quietly-raises-prices-electric-vehicles-model-x
+  </p>,
+  <h2>
+    Tesla’s driving data storage system hacked by Dutch investigators
+  </h2>,
+  <p>
+    A research team in the Netherlands decrypted Tesla’s driving data system while investigating a crash. The data trove could have implications for crash investigations in the US.
+  </p>,
+  <p>
+    https://www.theverge.com/2021/10/21/22738747/tesla-driving-data-hack-dutch-investigators-autopilot
+  </p>,
+  <h2>
+    Tesla's Berlin Gigafactory could produce EVs as soon as November
+  </h2>,
+  <p>
+    Tesla's long-in-the-making German Gigafactory is close to manufacturing its first electric cars. As Bloombergreports, company chief Elon Musk told those at an October 9th event that the Berlin-area factory should start production of Model Y crossovers in Nove…
+  </p>,
+  <p>
+    https://www.engadget.com/tesla-berlin-gigafactory-production-start-date-145218970.html
+  </p>,
+  <h2>
+    Musk says Tesla will begin production at its German Gigafactory by the end of the year
+  </h2>,
+  <p>
+    Tesla held a county fair-style event on Saturday near the site of its Gigafactory in Germany, where CEO Elon Musk said the company would begin producing Model Y cars before the end of 2021.
+  </p>,
+  <p>
+    https://www.theverge.com/2021/10/10/22719106/musk-tesla-germany-berlin-gigafactory-model-y
+  </p>,
+  <h2>
+    Elon Musk cites ‘last minute concerns’ in delay of Tesla software rollout
+  </h2>,
+  <p>
+    Tesla has delayed the rollout of its Full Self-Driving (FSD) Beta 10.2 software rollout because of last-minute concerns, CEO Elon Musk tweeted early Saturday. He apologized for the delay, saying the release would likely happen Sunday or Monday. He didn’t elab…
+  </p>,
+  <h2>
+    Tesla to Move Headquarters to Texas from California
+  </h2>,
+  <p>
+    Elon Musk announced the move at the company’s annual shareholder meeting, hosted at a factory Tesla is building near Austin.
+  </p>,
+  <p>
+    https://www.nytimes.com/2021/10/07/business/tesla-texas-headquarters.html
+  </p>,
+  <h2>
+    Elon Musk Says ‘Some Issues’ Have Forced Tesla to Pull Newest Full Self-Driving Beta
+  </h2>,
+  <p>
+    Hours after releasing an update to its Full Self-Driving software beta—which, contrary to its name, does not allow the car to drive itself without human supervision—Tesla has rolled it back. Read more...
+  </p>,
+  <p>
+    https://gizmodo.com/elon-musk-says-some-issues-have-forced-tesla-to-pull-1847927184
+  </p>,
+  <h2>
+    Tesla: Elon Musk says company headquarters will move to Texas
+  </h2>,
+  <h2>
+    Tesla investors will vote on whether to oust James Murdoch and Kimbal Musk from the board.
+  </h2>,
+  <p>
+    Activist shareholders have submitted five proposals to compel Tesla to disclose more information about its efforts to diversify its work force, how it handles employee disputes and its human rights record.
+  </p>,
+  <p>
+    Joe Raedle | Getty ImagesElon Musk has entered rarified air in the world billionaire rankings. The Tesla and SpaceX CEO is not only currently the richest person in the world, but is now worth as much as fellow billionaires Bill Gates and Warren Buffett combin…
+  </p>,
+  <h2>
+    Ageny chief says Tesla fan attacks on government's new safety advisor are 'calculated'
+  </h2>,
+  <p>
+    Jennifer Homendy, chair of the National Transportation Safety Board (NTSB), said Tuesday that the recent backlash from Tesla's fanbase towards a newly-appointed federal safety advisor is a deliberate attempt to shift away from safety questions about the autom…
+  </p>,
+  <p>
+    https://www.cnn.com/2021/10/28/cars/tesla-ntsb-cummings/index.html
+  </p>,
+  <h2>
+    Trillion-dollar Tesla - Reuters
+  </h2>,
+  <p>
+    https://www.reuters.com/technology/trillion-dollar-tesla-2021-10-26/
+  </p>,
+]
+`;

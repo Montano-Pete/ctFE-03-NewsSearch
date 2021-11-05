@@ -10,7 +10,7 @@ const SearchControls = ({ searchInput, onSearchInputChange, onSubmit }) => (
       value={searchInput}
       onChange={onSearchInputChange}
     />
-    <button>Submit</button>
+    <button aria-label="submitButton">Submit</button>
   </form>
 );
 

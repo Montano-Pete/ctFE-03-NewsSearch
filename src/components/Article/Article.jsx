@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-export const Article = ({ title, author, image, url, description }) => (
+const Article = ({ title, author, image, url, description }) => (
   <figure>
     <h2>{title}</h2>
     <h3>{author}</h3>
@@ -18,3 +18,5 @@ Article.propTypes = {
   url: PropTypes.string.isRequired,
   description: PropTypes.string.isRequired,
 };
+
+export default Article;
