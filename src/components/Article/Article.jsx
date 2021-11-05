@@ -5,7 +5,7 @@ const Article = ({ title, author, image, url, description }) => (
   <figure>
     <h2>{title}</h2>
     <h3>{author}</h3>
-    <img source={image} alt={title} />
+    <p>{image}</p>
     <p>{description}</p>
     <p>{url}</p>
   </figure>
