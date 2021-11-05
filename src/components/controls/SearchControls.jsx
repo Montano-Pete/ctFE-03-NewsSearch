@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 
 const SearchControls = ({ searchInput, onSearchInputChange, onSubmit }) => (
   <form onSubmit={onSubmit}>
-    <label htmlFor="searchInput">Search Input </label>
+    <label htmlFor="searchInput">Search Input</label>
     <input
       id="searchInput"
       type="text"
